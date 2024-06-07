@@ -110,8 +110,8 @@ async def stop(ctx):
         await ctx.send("The bot is not playing anything at the moment.")
 
 @bot.command(name='jmmy', help='hey jimmy are you there????')
-async def jimFuck(ctx):
-    ctx.send("yo fuck @jmmy honestly")
+async def jimHeck(ctx):
+    ctx.send("yo heck @jmmy honestly")
 
 
 
